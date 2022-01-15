@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anmol Guragain</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Anmol Guragain</h1>
 <h3 align="center">A passionate Computer Science student.</h3>
 
 - 🌱 I’m currently learning **Flutter, Data Structures, Network Security**
