@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anmol Guragain</h1>
 <h3 align="center">A passionate Computer Science student.</h3>
 
-- 🌱 I’m currently learning **Flutter, Data Structures**
+- 🌱 I’m currently learning **Flutter, Data Structures, Network Security**
 - 🎓 I'm a Second Year CS Student at **Vellore Institute of Technology** 
 
 <h3 align="left">Connect with me:</h3>
