@@ -47,4 +47,3 @@
 </p> 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anmol2059&show_icons=true&locale=en" alt="anmol2059" /></p>
