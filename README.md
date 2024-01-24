@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Anmol Guragain</h1>
-<h3 align="center">I Do Security, ML , most importantly I just stare at the errors in my terminal and zone out.</h3>
+<h3 align="center">I dabble in Security, ML, but most importantly, I just stare at the errors in my terminal and zone out. 😎🛠️.</h3>
 
 - 🎓 I'm a Final Year CS Student at **Vellore Institute of Technology** 
 
