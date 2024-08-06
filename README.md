@@ -5,6 +5,8 @@
 - I explore Speech Processing, Natural Language Processing
 - We can chat about, parameter efficient fine tuning approaches, Low Resource Languages (Datasets), cause why not?
 
+<h3 align="left"> 📧 Email:</h3> contact@anmolguragain.com.np
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/anmol-guragain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anmol-guragain" height="30" width="40" /></a>
