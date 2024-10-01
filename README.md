@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Anmol Guragain</h1>
 <h3 align="center">I dabble in Machine Learning (sometimes Computer Security), but most importantly, I just stare at the errors in my terminal and zone out. 😎🛠️.</h3>
 
-- 🎓 I'm a Final Year CS Student at **Vellore Institute of Technology**
+- 🎓 I'm a CS Undergrad of **Vellore Institute of Technology**
 - I explore Speech Processing, Natural Language Processing
 - We can chat about, parameter efficient fine tuning approaches, Low Resource Languages (Datasets), cause why not?
 
